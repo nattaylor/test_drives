@@ -13,7 +13,7 @@
 # ---
 
 # %%
-"""Using huggingface locally and Severless API"""
+"""Use huggingface locally and Severless API"""
 
 import huggingface_hub
 from transformers import pipeline
